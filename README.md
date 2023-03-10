@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Evelyn Ayansola
+## Hi there! My name is Evelyn Ayansola
 
 - 🔭 I’m a tech newbie trying to find my path in tech 
 - 🌱 I’m currently learning the basic of coding staring with HTML, CSS and JavaScipt

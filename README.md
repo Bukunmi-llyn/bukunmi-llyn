@@ -1,5 +1,8 @@
-# Hi there! My name is Evelyn
-## I am a Cloud Engineer
+## Hi there! My name is Evelyn
+### I am a Cloud Engineer
+
+![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+
 
 - 🔭 I’m a tech newbie trying to find my path in tech 
 - 🌱 I’m currently learning the basic of coding staring with HTML, CSS and JavaScipt

@@ -1,7 +1,8 @@
 ## Hi there! My name is Evelyn
 ### I am a Cloud Engineer
 
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo](https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg) "Hover text")
+
 
 
 - 🔭 I’m a tech newbie trying to find my path in tech 
